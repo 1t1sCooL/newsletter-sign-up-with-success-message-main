@@ -36,7 +36,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Vercel](https://newsletter-sign-up-with-success-message-main.vercel.app/)
+- Solution URL: [Vercel](https://newsletter-sign-up-with-success-mes-ruby.vercel.app/)
 - Live Site URL: [mmalabugin.ru/NewsletterSignUp](https://mmalabugin.ru/NewsletterSignUp/)
 
 ## My process

@@ -2,7 +2,7 @@ import { defineConfig } from 'vitest/config'
 import { fileURLToPath, URL } from 'node:url'
 
 export default defineConfig({
-  // base: '/NewsletterSignUp/',
+  base: '/NewsletterSignUp/',,
   resolve: {
     alias: {
       '@': fileURLToPath(new URL('./src', import.meta.url)),

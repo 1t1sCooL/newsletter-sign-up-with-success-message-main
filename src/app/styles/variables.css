@@ -1,0 +1,9 @@
+:root {
+  --color-tomato: hsl(4 100% 67%);
+  --color-blue-800: hsl(234 29% 20%);
+  --color-blue-700: hsl(235 18% 26%);
+  --color-grey: hsl(0 0% 58%);
+  --color-grey-border: hsl(231 7% 81%);
+  --color-white: hsl(0 0% 100%);
+  --font-family: 'Roboto', sans-serif;
+}

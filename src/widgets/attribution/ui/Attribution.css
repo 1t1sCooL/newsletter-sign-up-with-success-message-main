@@ -1,0 +1,24 @@
+.attribution {
+  position: absolute;
+  inset-inline: 0;
+  inset-block-end: 0.75rem;
+  z-index: 2;
+  font-size: 0.6875rem;
+  text-align: center;
+  color: hsl(0 0% 100% / 0.72);
+}
+
+.attribution a {
+  color: hsl(228 45% 70%);
+  text-decoration: underline;
+}
+
+@media (max-width: 56.25em) {
+  .attribution {
+    color: hsl(234 29% 20% / 0.72);
+  }
+
+  .attribution a {
+    color: hsl(228 45% 44%);
+  }
+}
